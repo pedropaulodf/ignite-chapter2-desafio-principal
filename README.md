@@ -23,6 +23,3 @@ Nesse desafio, você deverá criar um hook para gerenciar um carrinho de compras
 - Em outro terminal, execute ```yarn dev``` para executar a simulação de uma API com o json-server
 
 Pronto! Você pode visualizar o Rocketshoes através do endereço http://localhost:3000
-
-<hr />
-<p>Readme adaptado <a href="https://github.com/nathaliacristina20/gorestaurant">desse projeto</a></p>
